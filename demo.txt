@@ -1,1 +1,2 @@
 This is text added to the demo.txt file.
+This is more text added to the file.
